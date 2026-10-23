@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=eddiesgranger03&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F320445665%3Fu%3D66f9d604a55697603cb840a50022def5c9c98e60%26v%3D4" alt="eddiesgranger03 hero visual" />
 </p>
 
-<p align="center"><b>Eddies</b> · Frontend or full-stack engineer<br/><sub>Let it be.,</sub></p>
+<p align="center"><b>Eddies</b> · Software Engineer | AI Engineer <br/><sub>Let it be.,</sub></p>
 
 <p align="center"><a href="https://github.com/eddiesgranger03">GitHub</a></p>
 
@@ -64,5 +64,3 @@
 </p>
 
 </details>
-
-<p align="center"><sub>Eddies · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
